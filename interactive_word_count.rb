@@ -1,4 +1,4 @@
- require './lib/string_analysis.rb'
+require './lib/string_analysis.rb'
 
 puts "Enter a phrase"
 user_phrase = gets
